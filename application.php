@@ -9,7 +9,7 @@ include('student.php');
 <body align="center" style="font-size: 20px; background-color: skyblue;">
     <h1 align="centre">Application Form</h1>
     <p>Application For Reimbursement Of Children Education Allowance For The Academic Year<input type="month" </p> <p>(Ref:RAilway Board Letter No.E(w)/2019/ED-2/3 dtd.12.02.2019(RBE NO.147/2019)</p>
-    <form method="post" action="index1.php">
+    <form method="post" action="index1.html">
         <table align="centre">
             <tr>
                 <td> 01- Name of the Employee:</td>
