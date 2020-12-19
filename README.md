@@ -10,7 +10,9 @@ After considering all of the details mentioned bove, it is decided whether the c
 
 #### Technologies used are :
 PHP
+
 HTML5
+
 CSS3
 
 
@@ -51,3 +53,8 @@ CSS3
 
 ![IMG-20200927-WA0002](https://user-images.githubusercontent.com/76059423/102692358-c96e8f80-4238-11eb-82ac-4f7a2e39af4b.jpg)
 
+
+
+
+
+![IMG-20200927-WA0003](https://user-images.githubusercontent.com/76059423/102692409-ffac0f00-4238-11eb-89fa-676eb9204fd6.jpg)
