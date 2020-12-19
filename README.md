@@ -15,3 +15,8 @@ After considering all of the details mentioned bove, it is decided whether the c
 
 
 ![IMG-20200927-WA0005](https://user-images.githubusercontent.com/76059423/102691841-87901a00-4235-11eb-9812-59495f7512a0.jpg)
+
+
+
+![IMG-20201219-WA0000](https://user-images.githubusercontent.com/76059423/102691942-2ae12f00-4236-11eb-9c9f-a670c40c41d8.jpg)
+
