@@ -14,3 +14,4 @@ After considering all of the details mentioned bove, it is decided whether the c
 
 
 
+![IMG-20200927-WA0005](https://user-images.githubusercontent.com/76059423/102691841-87901a00-4235-11eb-9812-59495f7512a0.jpg)
