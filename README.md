@@ -8,6 +8,11 @@ Factors like employee name, employee number, their pay bill details are consider
 
 After considering all of the details mentioned bove, it is decided whether the child is eligible for education allowance or not.
 
+#### Technologies used are :
+PHP
+HTML5
+CSS3
+
 
 
 ### Here are the screenshots of the Web Portal :
@@ -28,3 +33,8 @@ After considering all of the details mentioned bove, it is decided whether the c
 
 ![IMG-20200927-WA0004](https://user-images.githubusercontent.com/76059423/102691979-624fdb80-4236-11eb-9641-985419cbf6b5.jpg)
 
+
+
+
+
+![IMG-20201219-WA0001](https://user-images.githubusercontent.com/76059423/102692214-ea82b080-4237-11eb-8bb6-979e38a8033e.jpg)
