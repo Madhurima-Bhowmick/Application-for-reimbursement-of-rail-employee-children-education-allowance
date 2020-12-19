@@ -18,5 +18,13 @@ After considering all of the details mentioned bove, it is decided whether the c
 
 
 
+
+
 ![IMG-20201219-WA0000](https://user-images.githubusercontent.com/76059423/102691942-2ae12f00-4236-11eb-9c9f-a670c40c41d8.jpg)
+
+
+
+
+
+![IMG-20200927-WA0004](https://user-images.githubusercontent.com/76059423/102691979-624fdb80-4236-11eb-9641-985419cbf6b5.jpg)
 
