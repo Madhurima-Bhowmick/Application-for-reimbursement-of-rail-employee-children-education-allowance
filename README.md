@@ -15,6 +15,8 @@ HTML5
 
 CSS3
 
+MySQL
+
 
 
 ### Here are the screenshots of the Web Portal :
@@ -46,6 +48,12 @@ CSS3
 
 
 ![IMG-20201219-WA0003](https://user-images.githubusercontent.com/76059423/102692314-8ad8d500-4238-11eb-8760-9c8f32e2eb39.jpg)
+
+
+
+
+
+
 
 
 
