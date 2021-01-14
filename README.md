@@ -11,9 +11,9 @@ After considering all of the details mentioned bove, it is decided whether the c
 #### Technologies used are :
 PHP
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 MySQL
 
